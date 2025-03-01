@@ -1,2 +1,2 @@
-# data-visualization
-Data visualization on titanic dataset
+# CodSoft
+Task_01 Data visualization on titanic dataset
